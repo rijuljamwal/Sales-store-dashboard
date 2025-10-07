@@ -6,6 +6,13 @@
 The owner of Marduk Store wanted a solution to effectively track and analyze online sales performance across India.
 This Power BI dashboard provides an intuitive, interactive, and visually engaging way to explore key sales metrics, regional trends, and customer insights — enabling data-driven decision-making.
 
+## Project Overview
+Here’s a quick look at the Power BI dashboard I created:
+
+![Dashboard Screenshot](<img width="1544" height="861" alt="SALES DASHBOARD" src="https://github.com/user-attachments/assets/78494029-0b71-4eb2-a321-435cf07df3db" />
+)
+
+
 2--> 🎯 Objective & Purpose
 
 The goal of this project is to:
