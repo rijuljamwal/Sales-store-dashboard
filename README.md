@@ -9,8 +9,7 @@ This Power BI dashboard provides an intuitive, interactive, and visually engagin
 ## Project Overview
 Here’s a quick look at the Power BI dashboard I created:
 
-![Dashboard Screenshot](<img width="1544" height="861" alt="SALES DASHBOARD" src="https://github.com/user-attachments/assets/78494029-0b71-4eb2-a321-435cf07df3db" />
-)
+![Dashboard Screenshot](https://github.com/rijuljamwal/Sales-store-dashboard/blob/15f27bb7bc2fa94e84545d450726ab9232660d7a/SALES%20DASHBOARD.png)
 
 
 2--> 🎯 Objective & Purpose
