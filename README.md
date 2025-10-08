@@ -1,5 +1,5 @@
 # Sales-store-dashboard
-🛒 Marduk Store Online Sales Dashboard – Power BI Project
+🛒 Madhav Store Online Sales Dashboard – Power BI Project
 
 1--> 📖 Project Overview
 
